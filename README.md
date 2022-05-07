@@ -1,6 +1,11 @@
 ## Hey 👋, I'm Holiq Ibrahim
-[![Gmail Badge](https://img.shields.io/badge/-holiq.ibrahim376@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:holiq.ibrahim376@gmail.com)](mailto:holiq.ibrahim376@gmail.com) [![Github Badge](https://img.shields.io/badge/-holiq-grey?style=flat&logo=github&logoColor=white&link=https://github.com/holiq/)](https://www.github.com/holiq/)
-<p align='left'>I am a vocational high school student who is interested in technology especially programming and here are some of the programming languages ​​I use</p>
+[![Gmail Badge](https://img.shields.io/badge/-holiq.ibrahim376@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:holiq.ibrahim376@gmail.com)](mailto:holiq.ibrahim376@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/-holiq--ibrahim-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/holiq-ibrahim)](https://linkedin.com/in/holiq-ibrahim) 
+[![Github Badge](https://img.shields.io/badge/-holiq-grey?style=flat&logo=github&logoColor=white&link=https://github.com/holiq)](https://www.github.com/holiq) 
+[![Twitter Badge](https://img.shields.io/badge/-holiq_xid-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/holiq_xid)](https://twitter.com/holiq_xid) 
+[![Facebook Badge](https://img.shields.io/badge/-holiq.xid-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/holiq.xid)](https://facebook.com/holiq.xid)
+
+I am a vocational high school student who is interested in technology especially programming and here are some of the programming languages ​​I use
 
 ![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
