@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-holiq__xid-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/holiq_xid/)](https://instagram.com/holiq_xid/) 
 [![Facebook Badge](https://img.shields.io/badge/-holiq.xid-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/holiq.xid)](https://facebook.com/holiq.xid)
 
-I am a vocational high school student who is interested in technology especially programming and here are some of the programming languages ​​I use
+I am a student who is interested in technology especially programming and here are some of the programming languages ​​I use
 
 ![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
