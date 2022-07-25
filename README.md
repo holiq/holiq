@@ -1,4 +1,4 @@
-## Hey ![Hi](/assets/hi.gif)], I'm Holiq Ibrahim
+## Hey <img src="/assets/hi.gif" width="25px" />, I'm Holiq Ibrahim
 [![Gmail Badge](https://img.shields.io/badge/-holiq.ibrahim376@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:holiq.ibrahim376@gmail.com)](mailto:holiq.ibrahim376@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-holiq--ibrahim-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/holiq-ibrahim)](https://linkedin.com/in/holiq-ibrahim) 
 [![Github Badge](https://img.shields.io/badge/-holiq-grey?style=flat&logo=github&logoColor=white&link=https://github.com/holiq)](https://www.github.com/holiq) 
