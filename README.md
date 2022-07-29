@@ -21,6 +21,7 @@ I am a student who is interested in technology especially programming and here a
 
 ## My Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=holiq&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/holiq/holiq)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=holiq&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/holiq/holiq)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holiq&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/holiq/holiq)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=holiq&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/holiq/holiq)
 [![Streak Stats Langs](https://github-readme-streak-stats.herokuapp.com?user=holiq&theme=dark&background=282A36&ring=57C7FF&fire=57C7FF&dates=686868&currStreakNum=9AEDFE&sideNums=57C7FF&currStreakLabel=9AEDFE&sideLabels=9AEDFE&stroke=57C7FF&border=282A36)](https://github.com/holiq/holiq)
