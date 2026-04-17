@@ -1,10 +1,10 @@
 ## Hey <img src="/assets/hi.gif" width="25px" />, I'm Holiq Ibrahim
 
-[![Gmail Badge](https://img.shields.io/badge/-holiq.ibrahim376@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:holiq.ibrahim376@gmail.com)](mailto:holiq.ibrahim376@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-me@holiq.id-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:me@holiq.id)](mailto:me@holiq.id)
 [![LinkedIn Badge](https://img.shields.io/badge/-holiq--ibrahim-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/holiq-ibrahim)](https://linkedin.com/in/holiq-ibrahim) 
-[![Github Badge](https://img.shields.io/badge/-holiq-grey?style=flat&logo=github&logoColor=white&link=https://github.com/holiq)](https://www.github.com/holiq) 
+<!-- [![Github Badge](https://img.shields.io/badge/-holiq-grey?style=flat&logo=github&logoColor=white&link=https://github.com/holiq)](https://www.github.com/holiq) 
 [![Instagram Badge](https://img.shields.io/badge/-holiq__xid-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/holiq_xid/)](https://instagram.com/holiq_xid/) 
-[![Facebook Badge](https://img.shields.io/badge/-holiq.xid-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/holiq.xid)](https://facebook.com/holiq.xid)
+[![Facebook Badge](https://img.shields.io/badge/-holiq.xid-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/holiq.xid)](https://facebook.com/holiq.xid) -->
 
 I am a web developer with expertise in Laravel and Tailwind CSS. With a passion to explore new technologies, I always to expand my knowledge and expertise in web development.
 
